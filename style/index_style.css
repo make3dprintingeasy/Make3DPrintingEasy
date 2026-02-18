@@ -21,7 +21,7 @@ body {
 
 body img{
   height: auto;
-  width: 310px;
+  width: 19.375rem;
   display: center;
 }
 
@@ -237,3 +237,4 @@ footer {
     grid-template-columns: 1fr;
   }
 }
+
